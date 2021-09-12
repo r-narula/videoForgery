@@ -1,5 +1,8 @@
 # videoForgery
 
+Research Paper Link: [ Click Here ](https://www.sciencedirect.com/science/article/abs/pii/S0045790617305785)
+
+
 ### Clone the repository 
 ```
 git clone git@github.com:r-narula/videoForgery.git
