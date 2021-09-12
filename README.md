@@ -1,4 +1,4 @@
-# videoForgery
+# Forgery detection in digital images via discrete wavelet and discrete cosine transforms
 
 Research Paper Link: [ Click Here ](https://www.sciencedirect.com/science/article/abs/pii/S0045790617305785)
 
